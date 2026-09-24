@@ -54,7 +54,7 @@
 #endif
 
 #ifndef EXPERIMENTAL_BNO_USE_GIRV
-#define EXPERIMENTAL_BNO_USE_GIRV true
+#define EXPERIMENTAL_BNO_USE_GIRV false
 // Use GIRV on BNO to report at 333Hz, stabilization still happens at 100Hz
 #endif
 
